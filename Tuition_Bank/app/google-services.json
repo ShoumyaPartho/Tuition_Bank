@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "198790184715",
+    "project_id": "tuition-bank",
+    "storage_bucket": "tuition-bank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198790184715:android:e9d49dd5abbc145b0fec0e",
+        "android_client_info": {
+          "package_name": "com.example.tuition_bank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198790184715-j8029f9r26tu5j4nr516jr138k652710.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_QCJZocGr05VqwYEsSd0oxiTXowM-bOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198790184715-j8029f9r26tu5j4nr516jr138k652710.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

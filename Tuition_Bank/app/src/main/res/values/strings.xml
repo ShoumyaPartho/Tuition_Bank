@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tuition_Bank</string>
+
+    <string name="logo_name">Find Tuition!</string>
+    <string name="slogan_name">Your one-stop tuition solution</string>
+    <string name="powered_name">Powered By SHOUMYA</string>
+
+    <!-- Strings for On Boarding Screen -->
+
+    <!-- Titles-->
+    <string name="first_slide_title">Search For Tuition</string>
+    <string name="second_slide_title">Make A Call</string>
+    <string name="third_slide_title">Add New Tuitions</string>
+    <string name="fourth_slide_title">Sit Back And Relax!</string>
+
+    <!-- Descriptions -->
+    <string name="first_slide_desc">You can search for Tuition any place nearby or within a specified city. We will display specific or all related Tuition opennings to you in this app!</string>
+    <string name="second_slide_desc">We provide Students Tuition Details for all casses ranging from class 1 to class 12. You can contact with the students using phone numbers through our app</string>
+    <string name="third_slide_desc">If you want to find a perfect tutor to get help in your studies then post a tuition openning in our app. Thank us later!</string>
+    <string name="fourth_slide_desc">We will handle everything for you. As you have the app in your pocket then you dont have to worry about anything related to tuition solution. Because "Tuition_Bank" will handle everything! So sit back and RELAX!</string>
+
+    <!-- Buttons -->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started!</string>
+
+    <!-- End of On Boarding Screen Strings -->
+</resources>
